@@ -14,10 +14,10 @@
 
 3. **From the root directory of the project, install dependencies with npm**
 
-4. ```javascript
+   ```javascript
    npm install    // install dependencies for project
    ```
-5. Play with any of the available scripts given below.
+4. Play with any of the available scripts given below.
 
 
 
