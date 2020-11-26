@@ -12,10 +12,11 @@
 
    - Personally I use VScode. You are welcome to use any of your preferences!
 
-3. **From the root directory of the project, install dependencies with npm**
+3. **From the root directory of the project, install dependencies with npm and start**
 
    ```javascript
    npm install    // install dependencies for project
+   npm start    // start the project
    ```
 4. Play with any of the available scripts given below.
 
