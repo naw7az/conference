@@ -1,12 +1,15 @@
 import React, { useState, useEffect } from 'react';
 import SearchBox from '../components/SearchBox';
 import TileList from '../components/TileList';
-import Particles from 'react-particles-js';
+import Particles from 'react-tsparticles';
 import './App.css';
 
 const App = () => {
 
-  const [conference, setConference] = useState([])
+  
+  
+  
+     const [conference, setConference] = useState([])
   const [searchfield, setSearchfield] = useState('')
 
   const particlesOptions = {
